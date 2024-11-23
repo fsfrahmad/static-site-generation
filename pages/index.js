@@ -12,7 +12,7 @@ export default function Home() {
         />
       </Head>
       <h1>Welcome to My Static Site</h1>
-      <img src="../public/cat.jpg" alt="Example Image" loading="lazy" />
+      <img src="cat.jpg" alt="Example Image" loading="lazy" />
     </>
   );
 }
