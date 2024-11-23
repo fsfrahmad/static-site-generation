@@ -13,6 +13,7 @@ Next.js."
         />
       </Head>
       <h1>Welcome to My Static Site</h1>
+      <img src="../public/cat.jpg" alt="Example Image" loading="lazy" />
     </>
   );
 }
