@@ -8,12 +8,11 @@ export default function Home() {
         <meta property="og:title" content="My Static Site" />
         <meta
           property="og:description"
-          content="This is a sample static site using
-Next.js."
+          content="This is a sample static site using Next.js."
         />
       </Head>
       <h1>Welcome to My Static Site</h1>
-      <img src="../public/cat.jpg" alt="Example Image" loading="lazy" />
+      <img src="cat.jpg" alt="Example Image" loading="lazy" />
     </>
   );
 }
